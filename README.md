@@ -1,4 +1,6 @@
 **Insurance Management System**
+
+
 A Django-based backend for managing health insurance and social protection schemes. This project handles beneficiaries, policies, and claims, leveraging Python OOP principles, efficient data structures and algorithms (DSA), Django ORM, and Django REST Framework (DRF) for a scalable, secure API-driven system.
 
 **Table of Contents**
